@@ -9,7 +9,7 @@ This respository holds all the certificates achieved upon completion of differen
 <b>Certificate:</b> coursera.org/verify/YFMGS66WNCQT
 <br><br>
 ## C <br>
-<b>Course Name:</b> 1 hour of Get Started with Programming in C
+<b>Course Name:</b> 1 hour of Get Started with Programming in C <br>
 <b>Certificate:</b> udemy.com/certificate/UC-WCJ3SMCZ/
 <br><br>
 ## Excel <br>
