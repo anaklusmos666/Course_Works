@@ -13,9 +13,9 @@ This respository holds all the certificates achieved upon completion of differen
 <b>Certificate:</b> udemy.com/certificate/UC-WCJ3SMCZ/
 <br><br>
 ## Excel <br>
-<b>Course Name:</b> Useful Excel for Beginners
+<b>Course Name:</b> Useful Excel for Beginners <br>
 <b>Certificate:</b> udemy.com/certificate/UC-4d48edef-269b-44e5-9b18-c0c38cfbbe92
 <br><br>
-<b>Course Name:</b> Excel Skills for Business: Intermediate I
+<b>Course Name:</b> Excel Skills for Business: Intermediate I <br>
 <b>Certificate:</b> coursera.org/verify/7GK65G74LDWY
 <br><br>
